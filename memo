@@ -1,0 +1,18 @@
+setting時にはmasterだったはずなのに
+なぜかmainに変わってる気がする...
+
+
+git 切り替え
+
+
+git config --local user.name "botaidemy-cm"
+git config --local user.email "morita-c@ex-aidemy.co.jp"
+
+
+git config --global user.email "botaidemy-cm"
+git config --global user.email "morita-c@ex-aidemy.co.jp"
+
+
+
+git config --global user.email "morita"
+git config --global user.email "morichika.816@gmail.com"
